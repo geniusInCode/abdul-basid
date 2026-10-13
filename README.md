@@ -3,7 +3,7 @@ Personal GitHub profile showcasing backend, data analytics, and AI-focused proje
 
 # Hi, I'm Abdul 👋
 
-💻 Software Engineer focused on Backend & Data-Driven Systems  
+Data Engineer focused on Backend & Data-Driven Systems  
 📊 Strong in Python, Data Structures & Algorithms, and SQL  
 🤖 Interested in AI-Integrated Applications  
 🚀 Building scalable and performance-oriented backend solutions  
